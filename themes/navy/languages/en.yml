@@ -1,9 +1,9 @@
 menu:
   docs: 家装装修指南
-  api: 挑选与订购流程
+  api: 门窗订购流程
   news: 行业新闻
-  plugins: 项目效果图
-  themes: 产品展示中心
+  plugins: 项目展示
+  themes: 产品图册
   search: 搜索
 
 index:
