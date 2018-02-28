@@ -12,7 +12,7 @@
     <div class="inner">
       {{ page.content }}
       <ul id="intro-cmd-wrap">
-      主营产品：
+      <h2>主营产品：</h2>
         <li class="intro-cmd-item">不锈钢门：不锈钢入户门（大门），不锈钢房间门（室内门），不锈钢办公室门（室内门），不锈钢安全门（庭院门）</li>
         <li class="intro-cmd-item">实木门：实木入户门（大门），实木房间门（室内门），实木办公室门</li>
         <li class="intro-cmd-item">铝合金门：铝合金阳台推拉门，铝合金厨房推拉门，铝合金洗手间门</li>
@@ -20,7 +20,7 @@
         <li class="intro-cmd-item">安全防护网：落地窗防护网，飘窗安全防护网</li>
       </ul>
       <div id="intro-get-started-wrap">
-        <a href="docs/" id="intro-get-started-link">{{ __('index.get_started') }}</a>
+        <a href="themes/" id="intro-get-started-link">{{ __('查看图册') }}</a>
       </div>
     </div>
   </div>
