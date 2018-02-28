@@ -2,7 +2,7 @@
   <div class="inner">
     <h2 id="banner-title">{{ page.subtitle }}</h2>
     <div id="banner-start">
-      <span id="banner-start-command">npm install hexo-cli -g</span><a id="banner-start-link" href="docs/"><i class="fa fa-arrow-right"></i></a>
+      <span id="banner-start-command">马上订购门窗</span><a id="banner-start-link" href="api/"><i class="fa fa-arrow-right"></i></a>
     </div>
     <div id="banner-share">{{ partial('partial/share') }}</div>
   </div>
@@ -12,11 +12,12 @@
     <div class="inner">
       {{ page.content }}
       <ul id="intro-cmd-wrap">
-        <li class="intro-cmd-item">npm install hexo-cli -g</li>
-        <li class="intro-cmd-item">hexo init blog</li>
-        <li class="intro-cmd-item">cd blog</li>
-        <li class="intro-cmd-item">npm install</li>
-        <li class="intro-cmd-item">hexo server</li>
+      主营产品：
+        <li class="intro-cmd-item">不锈钢门：不锈钢入户门（大门），不锈钢房间门（室内门），不锈钢办公室门（室内门），不锈钢安全门（庭院门）</li>
+        <li class="intro-cmd-item">实木门：实木入户门（大门），实木房间门（室内门），实木办公室门</li>
+        <li class="intro-cmd-item">铝合金门：铝合金阳台推拉门，铝合金厨房推拉门，铝合金洗手间门</li>
+        <li class="intro-cmd-item">防护栏及窗花：落地窗防护栏杆，铝合金防护窗花</li>
+        <li class="intro-cmd-item">安全防护网：落地窗防护网，飘窗安全防护网</li>
       </ul>
       <div id="intro-get-started-wrap">
         <a href="docs/" id="intro-get-started-link">{{ __('index.get_started') }}</a>
