@@ -1,10 +1,6 @@
 <!-- GitHub star -->
-<a class="github-button" href="https://github.com/hexojs/hexo" data-icon="octicon-star" data-show-count="true" aria-label="Star hexojs/hexo on GitHub">Star</a>
+<a class="github-button" data-icon="octicon-star" data-show-count="true">电话：13717323108</a>
 <!-- GitHub fork -->
-<a class="github-button" href="https://github.com/hexojs/hexo/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork hexojs/hexo on GitHub">Fork</a><!-- Tweet button -->
+<a class="github-button" data-icon="octicon-repo-forked" data-show-count="true" >邮箱：laobiao@dgmcd.net</a>
 <!-- Twitter follow button -->
-<a href="https://twitter.com/hexojs" class="twitter-follow-button" data-show-count="true">Follow @hexojs</a>
-<!-- Github Button -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-<!-- Twitter share button -->
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a  class="twitter-follow-button" data-show-count="true">地址：东莞市谢岗镇花园大道236号</a>
