@@ -2,7 +2,7 @@
   <div class="inner">
     <h2 id="banner-title">{{ page.subtitle }}</h2>
     <div id="banner-start">
-      <span id="banner-start-command">马上订购门窗</span><a id="banner-start-link" href="api/"><i class="fa fa-arrow-right"></i></a>
+      <span id="banner-start-command">品牌不锈钢门，马上订购</span><a id="banner-start-link" href="api/"><i class="fa fa-arrow-right"></i></a>
     </div>
     <div id="banner-share">{{ partial('partial/share') }}</div>
   </div>
