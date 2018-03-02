@@ -1,28 +1,22 @@
-title: API
+title: 东莞谢岗福易门业
 ---
-This documentation provides more detailed information about the API and will be particularly helpful for people who want to modify the Hexo source code or write new plugins. If you are interested in more basic usage of Hexo, please refer to the [docs](../docs) instead.
+谢岗福易门业是谢岗不锈钢品牌门窗产品综合服务商,集室内门窗装饰设计、门窗产品定制、门窗安装服务于一身,提供一揽子装修装饰安防产品解决方案。
 
-Please note that this documentation is only valid for Hexo 3 and above.
+## 联系方式
 
-## Initialize
 
-First, we have to create a Hexo instance. A new instance takes two arguments: the root directory of the website, `base_dir`, and an object containing the initialization options. Next, we initialize this instance by calling the `init` method on it, which will then cause Hexo to load its configuration and plugins.
-
-``` js
-var Hexo = require('hexo');
-var hexo = new Hexo(process.cwd(), {});
-
-hexo.init().then(function(){
-  // ...
-});
+``` 
+电话：13717323108 陈生老表
+地址：东莞市谢岗镇花园大道236号
 ```
 
-Option | Description | Default
+产品类别 | 产品介绍 | 适用范围
 --- | --- | ---
-`debug` | Enable debug mode. Display debug messages in the terminal and save `debug.log` in the root directory. | `false`
-`safe` | Enable safe mode. Don't load any plugins. | `false`
-`silent` | Enable silent mode. Don't display any messages in the terminal. | `false`
-`config` | Specify the path of the configuration file. | `_config.yml`
+`不锈钢门` | Enable debug mode. Display debug messages in the terminal and save `debug.log` in the root directory. | `false`
+`实木门` | Enable safe mode. Don't load any plugins. | `false`
+`铝合金门` | Enable silent mode. Don't display any messages in the terminal. | `false`
+`防护栏杆及楼梯扶手` | Specify the path of the configuration file. | `_config.yml`
+`防护网及窗花` | Specify the path of the configuration file. | `_config.yml`
 
 ## Load Files
 
