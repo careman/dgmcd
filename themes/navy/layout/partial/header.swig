@@ -6,12 +6,7 @@
     <nav id="main-nav">
       {{ header_menu('main-nav') }}
       
-      <div id="search-input-wrap">
-        <div id="search-input-icon">
-          <i class="fa fa-search"></i>
-        </div>
-        <input type="search" id="search-input" placeholder="不锈钢门...">
-      </div>
+
     </nav>
     <div id="lang-select-wrap">
       <label id="lang-select-label"><i class="fa fa-globe"></i><span>{{ lang_name(page.lang) }}</span></label>
