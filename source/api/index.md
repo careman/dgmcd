@@ -24,8 +24,9 @@ title: 东莞谢岗福易门业
 
 安装区域 | 包安装的产品 
 --- | --- 
-谢岗 | Enable debug mode. Display debug messages in the terminal and save `debug.log` in the root directory. 
-`实木门` | Enable safe mode. Don't load any plugins. 
-`铝合金门` | Enable silent mode. Don't display any messages in the terminal. 
-`防护栏杆及楼梯扶手` | Specify the path of the configuration file. 
-`防护网及窗花` | Specify the path of the configuration file. 
+谢岗镇及辖区 | Enable debug mode. Display debug messages in the terminal and save `debug.log` in the root directory. 
+樟木头镇及辖区 | Enable safe mode. Don't load any plugins. 
+常平镇及辖区 | Enable silent mode. Don't display any messages in the terminal. 
+沥林镇及辖区 | Specify the path of the configuration file. 
+清溪镇及辖区 | Specify the path of the configuration file. 
+桥头镇及辖区 | Specify the path of the configuration file. 
