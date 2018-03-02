@@ -21,12 +21,13 @@ title: 东莞谢岗福易门业
 防护网及窗花 | Specify the path of the configuration file. | `_config.yml`
 
 ## 安装范围
+所有产品均可电话下单、到电下单，以下区域门窗产品包安装，其他区域面谈。
 
 安装区域 | 包安装的产品 
 --- | --- 
-谢岗镇及辖区 | Enable debug mode. Display debug messages in the terminal and save `debug.log` in the root directory. 
-樟木头镇及辖区 | Enable safe mode. Don't load any plugins. 
-常平镇及辖区 | Enable silent mode. Don't display any messages in the terminal. 
-沥林镇及辖区 | Specify the path of the configuration file. 
-清溪镇及辖区 | Specify the path of the configuration file. 
-桥头镇及辖区 | Specify the path of the configuration file. 
+谢岗镇及辖区 | 谢岗不锈钢门，谢岗楼梯扶手，谢岗窗户防护网，谢岗实木门，谢岗房间门，谢岗推拉门，谢岗落地窗栏杆，谢岗洗手间门，谢岗庭院门，谢岗自动门等
+樟木头镇及辖区 | 樟木头不锈钢门，樟木头别墅门，樟木头楼梯扶手，樟木头窗户防护网，樟木头实木门，樟木头房间门，樟木头推拉门，樟木头落地窗栏杆，樟木头洗手间门，樟木头庭院门，樟木头自动门
+常平镇及辖区 | 常平不锈钢门，常平楼梯扶手，常平窗户防护网，常平实木门，常平房间门，常平推拉门，常平落地窗栏杆，常平洗手间门，常平庭院门，常平自动门
+沥林镇及辖区 | 沥林不锈钢门，沥林楼梯扶手，沥林窗户防护网，沥林实木门，沥林房间门，沥林推拉门，沥林落地窗栏杆，沥林洗手间门，沥林庭院门，沥林自动门
+清溪镇及辖区 | 清溪不锈钢门，清溪楼梯扶手，清溪窗户防护网，清溪实木门，清溪房间门，清溪推拉门，清溪落地窗栏杆，清溪洗手间门，清溪庭院门，清溪自动门
+桥头镇及辖区 | 桥头不锈钢门，桥头楼梯扶手，桥头窗户防护网，桥头实木门，桥头房间门，桥头推拉门，桥头落地窗栏杆，桥头洗手间门，桥头庭院门，桥头自动门
