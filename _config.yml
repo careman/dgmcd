@@ -5,7 +5,7 @@ author: 老表
 language: en
 timezone: UTC
 
-url: https://hexo.io
+url: http://www.dgmcd.net
 root: /
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
@@ -25,7 +25,6 @@ highlight:
 
 disqus_shortname: hexojs
 google_analytics: UA-48498357-3
-fb_admins: 100000247608790
 algolia:
   en:
     api_key: c3d5d4c995b5e0c2ffb5623900279a66
@@ -36,5 +35,4 @@ algolia:
   zh-cn:
     api_key: cdea7d4e47d84f6145b77e7f68689f35
     index_name: hexo_zh-cn
-twitter: hexojs
-github: hexojs/hexo
+
