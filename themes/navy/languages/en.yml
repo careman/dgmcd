@@ -1,10 +1,11 @@
 menu:
   docs: 家装装修指南
-  api: 门窗订购流程
+  api: 关于我们
   news: 行业新闻
   plugins: 项目展示
   themes: 产品图册
   search: 搜索
+  about: 门窗订购流程
 
 index:
   get_started: 开始使用
