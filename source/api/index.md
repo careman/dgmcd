@@ -14,11 +14,11 @@ title: 东莞谢岗福易门业
 
 产品类别 | 产品介绍 | 常用于
 --- | --- | ---
-不锈钢门 | Enable debug mode. Display debug messages in the terminal and save `debug.log` in the root directory. | `false`
-实木门 | Enable safe mode. Don't load any plugins. | `false`
-铝合金门 | Enable silent mode. Don't display any messages in the terminal. | `false`
-防护栏杆及楼梯扶手 | Specify the path of the configuration file. | `_config.yml`
-防护网及窗花 | Specify the path of the configuration file. | `_config.yml`
+不锈钢门 | 不锈钢门就是用不锈钢钢板材料剪压加工而成的门，和普通的门外观一样，主要材料是经真空镀色处理不锈钢板材，因均为不锈钢钢板焊接而成，具有环保无污染，坚固耐用，以及优越的安全性能等特性，满足不同场合的安全与环保需求。 | 入户防盗门，办公室门，别墅大门
+实木门 | 实木门是指制作木门的材料是取自森林的天然原木或者实木集成材，具有质轻强度好的优点，且富有艺术感，显得高贵典雅。| 入户大门，房间门，办公室门
+铝合金门 | 铝合金门是将表面处理过的铝合金型材制成的门框构件，用连接件、密封材料和开闭五金配件一起组合装配而成的一种门，具有款式多样，造型活泼，材质轻，防水防腐等特性 | 厨房门，阳台门，洗手间门，过道门，出租屋房间门
+防护栏杆及楼梯扶手 | 主要以不锈钢、实木和铁制品为主，是很好的安全防护产品，起到防护作用，同时有具有美观实用的特性 | 落地窗，阳台，楼梯
+防护网及窗花 | 起到防护作用，同时有具有美观实用的特性 | 落地阳台，铝合金窗
 
 ## 安装范围
 所有产品均可电话下单、到电下单，以下区域门窗产品包安装，其他区域面谈。
