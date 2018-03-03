@@ -1,43 +1,39 @@
-title: About
+title: 我需要在东莞安装我的房子，需要如何购买不锈钢门？
 ---
 
-Hexo was originally created and maintained by [Tommy Chen](https://github.com/tommy351) in 2012, now it becomes a project with 16k stars (still increasing) and 35k downloads monthly (data from 2017-May). It already helps thousands of people to build their dream website/blog. 
+东莞福易门业主要经销高档不锈钢门、不锈钢豪华门、钢塑门、室内门等不锈钢系列，实木房间门，实木办公室门等实木系列，以及铝合金阳台推拉门，铝合金厨房推拉门、办公室隔断推拉门等铝合金系列产品。
+东莞谢岗福易拥有安装经验丰富、安装技术过硬的高素质技术人才，致力于服务谢岗、桥头、清溪、沥林、常平、樟木头等片区的广大家装公装客户。
+谢岗福易门业经销的所有产品均有品牌厂家采用新工艺，先进的设备进行标准化生产，并经过完善的质检流程，保持每一个门窗出库均为高质量的精品门，为广大用户提供安全性能高的环保产品。 
 
-## Join us
+## 网站、电话、门店现场了解产品
 
-We are the passionate people behind the Hexo. We are loving, using, and building Hexo. If you would like to join Hexo, you should have at least one approved PR. If you have already contributed to Hexo, simply shot out an issue in any Hexo repos.
+1、通过<a href="http://www.dgmcd.net" title="东莞谢岗福易门业">东莞谢岗福易门业官方网站</a>'www.dgmcd.net"了解相情况；
+2、通过电话沟通相关产品信息及初步报价，电话：13717323108.
+3、通过现场门店了解相关信息；
 
-If you have any questions regarding joining Hexo, feel free to contact the maintainer [Abner Chou](https://github.com/NoahDragon) or simply publish an issue to ask.
+## 到店进行挑选产品款式，并下单支付定金
 
-## Contribute
+您在多方比对其他品牌产品质量和服务质量，款式及报价的情况下，选择我们的不锈钢门、实木门等产品，需要您到店确认您需要定做的数量、材料材质、花式款式、安装工期等信息，我们进行初步报价，经确认相关费用后在门店进行定金支付，并预约上门测量时间。
 
-Don't know where to start? Pick up any item in [Hexo 4.0 Road Map](https://github.com/hexojs/hexo/issues/2492), and start from there. Don't hesitate to ask questions, we are glad to help.
+## 专业人员上门进行测量
 
-## Donate
+根据您预约的时间，我们安排专业安装人员上门测量门窗的尺寸。
 
-{% note info Bitcoin %}
-<p align="center">
-![QR Code](bitcoin_qr.png)
-[3M9wCDjRCSkj2ecwuZc3ReJETWRow43UYg](bitcoin:3M9wCDjRCSkj2ecwuZc3ReJETWRow43UYg)
-</p>
-{% endnote %}
+## 根据测量结果，给予准确报价
 
-#### Why?
+在现场测量完成后，我们进行相关产品面积的计算，并进行相关产品总价计算。
 
-First of all, many people have asked about donation, so here it is!
+## 支付门窗采购全款，根据双方确认的信息进行下单生产
 
-Second, in all good conscience, the most of the visible costs are covered by us, like the domain name. We also spend a tremendous time to make Hexo running and functioning. This is the real cost and also invisible. 
+完整报价出来后，扣除已经支付款项，需要剩余款项后我们才安排工厂下单生产
 
-#### Benefits?!
+## 工厂下单生产
 
-We thank for every penny donations, here is a list of benefits you and us can achieve:
+品牌厂家采用新工艺，先进的设备进行标准化生产，并经过完善的质检流程，确保达到产品要求后进行出库。
 
-1. Covers our cost.
-2. Motivate and admit our work.
-3. List your name on Hexo.io website (2.5k users and 10k pageviews per day)!
+## 厂家配送网络发货
 
-There are two tiers of donation: 
-  * Less than $100, your name and website link will be on the donator list.
-  * More than $100, your name, icon, and website link will be on the home page for at least one month (depend on the amount).
-  
-** Again, thanks for your support! **
+专业的配送网络进行发货，避免货品在运输途中变形或损坏。
+
+
+## 预约进行上门安装，并现场验收
