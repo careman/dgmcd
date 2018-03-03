@@ -13,7 +13,7 @@
     {% for lang in site.data.languages %}
       <link rel="alternative" hreflang="{{ loop.key }}" href="{{ canonical_url(loop.key) }}">
     {% endfor %}
- <meta name="keywords" content="{{ page.keywords }} " 
+ <meta name="keywords" content="{{ page.keywords }} " >
   {% endif %}
   <!-- Icon -->
   <link rel="apple-touch-icon" sizes="57x57" href="{{ url_for('icon/apple-touch-icon-57x57.png') }}">
