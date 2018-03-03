@@ -3,7 +3,8 @@
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ config.title }}</title>
   <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="keywords" content=" {% if page.keywords %}{{ page.keywords }} {% endif %} ">
+ 
+ 
 
 <!-- Canonical links -->
   <link rel="canonical" href="{{ url }}">
@@ -12,6 +13,7 @@
     {% for lang in site.data.languages %}
       <link rel="alternative" hreflang="{{ loop.key }}" href="{{ canonical_url(loop.key) }}">
     {% endfor %}
+    <meta name="keywords" content="{{ page.keywords }} ">
   {% endif %}
   <!-- Icon -->
   <link rel="apple-touch-icon" sizes="57x57" href="{{ url_for('icon/apple-touch-icon-57x57.png') }}">
