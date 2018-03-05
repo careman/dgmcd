@@ -2,9 +2,9 @@
   description: lazyload images support for Hexo with IntersectionObserver API.
   link: https://github.com/Robin-front/hexo-lazyload
   tags:
-    - lazyload
-    - images
-    - performance
+    - 玻璃
+    - 不锈钢
+    - 单开
     - IntersectionObserver
 - name: hexo-deployer-cos
   description: Tencent Cloud Object Storage (COS) plugin of Hexo.
