@@ -48,23 +48,23 @@ sidebar:
     troubleshooting: 问题解答
     contributing: 贡献
   api:
-    core: 核心
-    overview: 概述
-    events: 事件
-    locals: 本地变量
-    router: 路由
-    box: 盒(Box)
-    rendering: 渲染
-    posts: 文章
-    scaffolds: 模版 (Scaffold)
-    themes: 主题
-    extensions: 扩展
-    console: 控制台 (Console)
-    deployer: 部署器 (Deployer)
-    filter: 过滤器 (Filter)
-    generator: 生成器 (Generator)
-    helper: 辅助函数 (Helper)
-    migrator: 迁移器 (Migrator)
-    processor: 处理器 (Processor)
-    renderer: 渲染引擎 (Renderer)
-    tag: 标签 (Tag)
+    core: 基本情况
+    overview: 关于谢岗福易
+    events: 谢岗福易文化
+    locals: 谢岗福易产品
+    router: 谢岗福易销售报价
+    box: 谢岗福易营业时间
+    rendering: 谢岗福易产品供应周期
+    posts: 谢岗福易售后政策
+    scaffolds: 谢岗福易生产工厂
+    themes: 谢岗福易施工现场
+    extensions: 都到谢岗福易买门窗
+    console: 谢岗装修到谢岗福易买门窗
+    deployer: 樟木头装修到谢岗福易买门窗
+    filter: 常平装修到谢岗福易买门窗
+    generator: 清溪装修到谢岗福易买门窗
+    helper: 沥林装修到谢岗福易买门窗
+    migrator: 桥头装修到谢岗福易买门窗
+    processor: 谢岗福易口碑好
+    renderer: 谢岗福易质量过硬
+    tag: 谢岗福易安全有保障
