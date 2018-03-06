@@ -9,7 +9,7 @@
   var index = lunr.Index.load(window.SEARCH_INDEX);
 
   function updateCount(count) {
-    $count.innerHTML = count + (count === 1 ? ' items' : ' items');
+    $count.innerHTML = count + (count === 1 ? ' items' : ' 项目');
   }
 
   function addClass(elem, className) {
@@ -29,7 +29,7 @@
   }
 
   function search(value) {
-    var result = index.search('*' + value + '* ' + value);
+    var result = index.search('*' + value);
     var len = result.length;
     var selected = {};
     var i = 0;
