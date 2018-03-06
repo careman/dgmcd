@@ -9,7 +9,7 @@
   var index = lunr.Index.load(window.SEARCH_INDEX);
 
   function updateCount(count) {
-    $count.innerHTML = count + (count === 1 ? ' items' : ' 项目');
+    $count.innerHTML = count + (count === 1 ? ' 个项目' : ' 的项目');
   }
 
   function addClass(elem, className) {
