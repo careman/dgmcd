@@ -1,109 +1,19 @@
-title: Generator
+title: 沥林装修，到沥林福易买不锈钢门，
+keywords: 沥林不锈钢门,沥林不锈钢门厂家,沥林塑钢门,沥林家装房间门,沥林 室内门,沥林办公室门,沥林不锈钢门报价,沥林楼梯扶手,沥林防护网，沥林实木门,沥林防盗门,沥林安全门,沥林防火门,东莞不锈钢门，东莞不锈钢门公司，东莞不锈钢门工厂，东莞不锈钢门企业，东莞不锈钢门供应商
+description: 沥林装修门窗请直接联系我们，电话13715281934，沥林福易门业主营：不锈钢四开门,不锈钢别墅门,不锈钢楼宇对讲门,实木门，防火门，自动门。我们是品牌不锈钢门厂家直销店，为企业装修和家庭装修提供最优惠的价格和最优质的服务
 ---
-A generator builds routes based on processed files.
 
-## Synopsis
 
-``` js
-hexo.extend.generator.register(name, function(locals){
-  // ...
-});
-```
 
-A `locals` argument will get passed into the function, containing the [site variables](../docs/variables.html#Site-Variables). You should use this argument to get the website data, thereby avoiding having to access the database directly.
+为什么，你在沥林去其他地方买门窗？ 
+为什么，你装修要来谢岗福易买不锈钢门？ 
+不知道什么品牌的门窗比较好？
+怕装了安全没保障？ 怕买到质量不好的门窗？
 
-## Update Routes
+哎呀，你为什么不早点来我们谢岗福易买不锈钢门，铝合金门、实木门，安全防护网，你想要的门窗产品我们都有哟。 
+是的，我们就在你的身边哦。 
+对的，谢岗装修买门窗请直接联系谢岗品牌不锈钢门业务经理，电话13715281934，联系人：老表， 
+是不是，正好你需要，我们也专业。
+记得，品牌门窗哦，记得厂家直销哦。 
 
-``` js
-hexo.extend.generator.register('test', function(locals){
-  // Object
-  return {
-    path: 'foo',
-    data: 'foo'
-  };
-
-  // Array
-  return [
-    {path: 'foo', data: 'foo'},
-    {path: 'bar', data: 'bar'}
-  ];
-});
-```
-
-Attribute | Description
---- | ---
-`path` | Path not including the prefixing `/`.
-`data` | Data
-`layout` | Layout. Specify the layouts for rendering. The value can be a string or an array. If it's ignored then the route will return `data` directly.
-
-When the source files are updated, Hexo will execute all generators and rebuild the routes. **Please return the data and do not access the router directly.**
-
-## Example
-
-### Archive Page
-
-Create an archive page at `archives/index.html`. We pass all posts as data to the templates. This data is equivalent to the `page` variable in templates.
-
-Next, set the `layout` attribute to render with the theme templates. We're setting two layouts in this example: if the `archive` layout doesn't exist, the `index` layout will be used instead.
-
-``` js
-hexo.extend.generator.register('archive', function(locals){
-  return {
-    path: 'archives/index.html',
-    data: locals,
-    layout: ['archive', 'index']
-  }
-});
-```
-
-### Archive Page with Pagination
-
-You can use the convenient official tool [hexo-pagination] to easily build archive pages with pagination.
-
-``` js
-var pagination = require('hexo-pagination');
-
-hexo.extend.generator.register('archive', function(locals){
-  // hexo-pagination makes an index.html for the /archives route
-  return pagination('archives', locals.posts, {
-    perPage: 10,
-    layout: ['archive', 'index'],
-    data: {}
-  });
-});
-```
-
-### Generate All Posts
-
-Iterate over all posts in `locals.posts` and create routes for all the posts.
-
-``` js
-hexo.extend.generator.register('post', function(locals){
-  return locals.posts.map(function(post){
-    return {
-      path: post.path,
-      data: post,
-      layout: 'post'
-    };
-  });
-});
-```
-
-### Copy Files
-
-This time we don't return the data explicitly but instead set `data` to a function so the route will build `fs.ReadStream` only when needed.
-
-``` js
-var fs = require('hexo-fs');
-
-hexo.extend.generator.register('asset', function(locals){
-  return {
-    path: 'file.txt',
-    data: function(){
-      return fs.createReadStream('path/to/file.txt')
-    }
-  };
-});
-```
-
-[hexo-pagination]: https://github.com/hexojs/hexo-pagination
+主营产品：不锈钢单开门，不锈钢门双开门，不锈钢防火门，实木门，办公室门，防护网，楼梯扶手，铝合金拖拉门，铝合金防护栏等等门窗及安全防护产品，产品质量好，安全有保障。
