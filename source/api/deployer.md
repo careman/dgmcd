@@ -1,13 +1,13 @@
-title: Deployer
+title: 樟木头不锈钢门，
+keywords: 樟木头不锈钢门,樟木头不锈钢门厂家,樟木头塑钢门,樟木头家装房间门,樟木头 室内门,樟木头办公室门,樟木头不锈钢门报价,樟木头楼梯扶手,樟木头防护网，樟木头实木门,樟木头防盗门,樟木头安全门,樟木头防火门,东莞不锈钢门，东莞不锈钢门公司，东莞不锈钢门工厂，东莞不锈钢门企业，东莞不锈钢门供应商
+description: 樟木头装修门窗请直接联系我们，电话13715281934，谢岗福易门业主营：不锈钢四开门,不锈钢别墅门,不锈钢楼宇对讲门,实木门，防火门，自动门。我们是不锈钢门工厂直销店，为企业装修和家庭装修提供最优惠的价格和最优质的服务
 ---
-A deployer helps users quickly deploy their site to a remote server without complicated commands.
-
-## Synopsis
-
-``` js
-hexo.extend.deployer.register(name, function(args){
-  // ...
-});
-```
-
-An argument `args` will be passed into the function. It contains the `deploy` value set in `_config.yml`, as well as the exact input users typed into their terminal.
+你知不知道，我们就在樟木头旁边，
+你知不知道，谢岗的装修建材要比樟木头便宜？
+你知不知道，谢岗福易是品牌门窗厂家-佛山福易门业在谢岗的工厂直销店
+你知不知道，拿起电话就可以从我们这里订购门窗？
+对的，樟木头装修门窗请直接联系樟木头不锈钢门业务经理，电话13715281934，联系人：老表，
+哦，
+对不起，忘了告诉你，如果你在樟木头，你家正好要装修，我们正好专业。
+记得，品牌门窗哦，记得厂家直销哦。
+主营产品：不锈钢单开门，不锈钢门双开门，不锈钢防火门，实木门，办公室门，防护网，楼梯扶手，铝合金拖拉门，铝合金防护栏等等门窗及安全防护产品，产品质量好，安全有保障。
