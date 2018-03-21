@@ -4,9 +4,9 @@
     <div id="banner-start">
       <span id="banner-start-command">品牌不锈钢门，马上订购</span><a id="banner-start-link" href="api/"><i class="fa fa-arrow-right"></i></a>
     </div>
-    <div id="banner-share">{{ partial('partial/share') }}</div>
-    <div id="fuwuquyu">
-    <a>服务区域：东莞市谢岗镇  |  东莞市樟木头镇  |  东莞市常平镇  |  东莞市沥林镇  |  东莞市清溪镇  |  东莞市桥头镇</a></div></br>
+    <div id="banner-share">{{ partial('partial/share') }}</br>
+    <a>服务区域：东莞市谢岗镇  |  东莞市樟木头镇  |  东莞市常平镇  |  东莞市沥林镇  |  东莞市清溪镇  |  东莞市桥头镇</a></br></div>
+    
   </div>
 </header>
 <div id="content-wrap">
