@@ -22,7 +22,7 @@
         <li class="intro-cmd-item">安全防护网：落地窗防护网，飘窗安全防护网</li>
       </ul>
       <div id="intro-get-started-wrap">
-        <a href="themes/" id="intro-get-started-link">{{ __('查看图册') }}</a>
+        <a href="http://www.dgmcd.net/themes/" id="intro-get-started-link">{{ __('查看图册') }}</a>
       </div>
     </div>
   </div>
