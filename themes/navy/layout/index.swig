@@ -6,7 +6,7 @@
     </div>
     <div id="banner-share">{{ partial('partial/share') }}</div>
     <div id="fuwuquyu">
-    <a>服务区域：东莞市谢岗镇  |  东莞市樟木头镇  |  东莞市常平镇  |  东莞市沥林镇  |  东莞市清溪镇  |  东莞市桥头镇</a></div>
+    <a>服务区域：东莞市谢岗镇  |  东莞市樟木头镇  |  东莞市常平镇  |  东莞市沥林镇  |  东莞市清溪镇  |  东莞市桥头镇</a></div></br>
   </div>
 </header>
 <div id="content-wrap">
