@@ -1,52 +1,21 @@
-title: Events
+title: 谢岗福易门业企业文化 
 ---
-Hexo inherits from [EventEmitter]. Use the `on` method to listen for events emitted by Hexo, and use the `emit` method to emit events. For more information, refer to the Node.js API documentation.
+谢岗福易是一家专业经销不锈钢品牌门窗、实木门窗，及生态门窗的等厂家指定代理经销商，所有产品均由品牌门窗厂家直接供货。经销范围覆盖谢岗镇及辖区，以及常平镇、樟木头镇、清溪镇、沥林镇和桥头镇等谢岗周边镇区。
 
-### deployBefore
+###  产品理念
 
-Emitted before deployment begins.
+安全又环保，价格又不高
 
-### deployAfter
 
-Emitted after deployment finishes.
+### 服务理念
 
-### exit
 
-Emitted before Hexo exits.
+所有产品均有超过5年以上从业经验的安装师傅进行量尺、安装，保障您的居家安全，
 
-### generateBefore
-
-Emitted before generation begins.
-
-### generateAfter
-
-Emitted after generation finishes.
-
-### new
-
-Emitted after a new post has been created. This event returns the post data:
-
-``` js
-hexo.on('new', function(post){
-  //
-});
+```
+品质保障，恒久品质，是我们经营的口号；
+重质量，讲信誉，也是老表的一贯承诺。
 ```
 
-Data | Description
---- | ---
-`post.path` | Full path of the post file
-`post.content` | Content of the post file
-
-### processBefore
-
-Emitted before processing begins. This event returns a path representing the root directory of the box.
-
-### processAfter
-
-Emitted after processing finishes. This event returns a path representing the root directory of the box.
-
-### ready
-
-Emitted after initialization finishes.
 
 [EventEmitter]: http://nodejs.org/api/events.html
